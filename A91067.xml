@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proper new ballad on the old Parliament Or, the second part of Knave out of doores. To the tune of Hei ho my honey, my heart shall never rue, four and twenty now for your mony, and yet a hard pennyworth too.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91067</idno>
+            <idno type="STC">Wing P3671</idno>
+            <idno type="STC">Thomason 669.f.22[7]</idno>
+            <idno type="STC">ESTC R211328</idno>
+            <idno type="EEBO-CITATION">99870058</idno>
+            <idno type="PROQUEST">99870058</idno>
+            <idno type="VID">163589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163589)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f22[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proper new ballad on the old Parliament Or, the second part of Knave out of doores. To the tune of Hei ho my honey, my heart shall never rue, four and twenty now for your mony, and yet a hard pennyworth too.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Good morrow my neighbours all, what news is this I heard tell?".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November]. 11. 1659".</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political ballads and songs --  England --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163589:1" rendition="simple:additions"/>
+            <head>A proper new <hi>Ballad</hi> on the <hi>Old Parliament.</hi> Or, the ſecond part of <hi>Knave out of Doores.</hi>
+            </head>
+            <opener>To the Tune of <hi>Hei ho my honey, my heart ſhall never rue, Four and twenty now for your mony, and yet a hard pennyworth too.</hi>
+            </opener>
+            <lg>
+               <l>GOod morrow my Neighbours all, What news is this I heard tell?</l>
+               <l>As I paſt through <hi>Weſtminſter-hall,</hi> by the houſe that's neer to Hell:</l>
+               <l>They told me <hi>John Lambert</hi> was there, with his Bears, and deeply did ſwear:</l>
+               <l>(As <hi>Cromwell</hi> had done before) thoſe Vermin ſhould ſit there no more.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Wil. Lenthall, <hi>who ſhall our Generall be?</hi>
+               </l>
+               <l>
+                  <hi>For the Houſe to the Divell is ſent all, and follow gid faith mun ye.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then Muſe ſtrike up a Sonnet, come Piper and play us a ſpring.</l>
+               <l>For now I think upon it, theſe Rs turn'd out their King.</l>
+               <l>But now it is come about, that once again they muſt turn out:</l>
+               <l>And not without juſtice and reaſon, that every one home to his priſon.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Harry Martin, <hi>a Burgeſs of the Bench.</hi>
+               </l>
+               <l>
+                  <hi>There's nothing here is certain, you muſt back and leave your wench.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He there with the buffle head, is called Lord, and of the ſame houſe,</l>
+               <l>Who (as I have heard it ſaid) was chaſtiſed by his Lady's ſpouſe.</l>
+               <l>Becauſe he ran at ſheep, ſhe and her maid gave him the whip;</l>
+               <l>And beat his head ſo addle, you'd think he had a knock in the cradle.</l>
+               <l>
+                  <hi>Sing hi ho Lord</hi> Munſon, <hi>you ha' got a Park of the Kings,</hi>
+               </l>
+               <l>
+                  <hi>One day you'l hang like a hounſon, for this and other things.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It was by their Maſters order at firſt together they met.</l>
+               <l>Whom piouſly they did murder, and ſince by their own they did ſet.</l>
+               <l>The cauſe of this diſaſter, is 'cauſe they were falſe to their Maſter.</l>
+               <l>Nor can their <hi>Genſd'armes</hi> blame, for ſerving them the ſame.</l>
+               <l>
+                  <hi>Sing hi ho Sir</hi> Arthur, <hi>no more in the houſe you ſhall prate;</hi>
+               </l>
+               <l>
+                  <hi>For all you kept ſuch a quarter, you are out of the Councell of State.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Old <hi>Noll</hi> once gave them a purge (forgetting <hi>Occidiſti,)</hi>
+               </l>
+               <l>(The furies be his ſcourge) ſo of the cure miſt he.</l>
+               <l>And yet the Drug he well knew it, for he gave it to Dr. <hi>Huit.</hi>
+               </l>
+               <l>Had he given it them he had done it, and they had not turn'd out his ſon yet.</l>
+               <l>
+                  <hi>Sing hi ho brave</hi> Dick, <hi>L.</hi> Hall, <hi>and</hi> Lady Joane,</l>
+               <l>
+                  <hi>Who did againſt loyalty kick; is now for a New-yeers-gift gone.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For had old <hi>Nall</hi> been a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive, he had puld them out by the ears.</l>
+               <l>Or elſe had fired their Hive, and kickt them down the ſtaires;</l>
+               <l>Becauſe they were ſo bold, to vex his righteous ſoul,</l>
+               <l>When he ſo deeply had ſwore, that there they ſhould never ſit more.</l>
+               <l>
+                  <hi>But hi ho</hi> Nol<hi>'s dead and ſtunk long ſince above ground,</hi>
+               </l>
+               <l>
+                  <hi>Though lapt in ſpices and lead, that coſt us many a pound.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Indeed brother Burgeis your <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing did never ſtink half ſo bad;</l>
+               <l>Nor did your Habberdin, when it no peaſe-ſtraw had.</l>
+               <l>Ye both were choſe together, cauſe ye wore ſtuff-cloaks in hard weather.</l>
+               <l>And <hi>Cambridge</hi> needs would have a Burgeis fool and knave.</l>
+               <l>
+                  <hi>Sing hi ho</hi> J. Lowry, <hi>concerning</hi> Abberdine,</l>
+               <l>
+                  <hi>No Member ſpake before ye, yet you nere ſpoke againe.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho my honey my heart ſhall never rue,</hi>
+               </l>
+               <l>
+                  <hi>Here's all pickt ware for the money, and yet a hard pennyworth too:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ned Prideaux</hi> he went poſt, to tell the Protector the news.</l>
+               <l>That <hi>Fletwood</hi> ruld the <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt, having tane off <hi>Dickes</hi> ſhoos.</l>
+               <l>And that he did believe, <hi>Lambert</hi> would him deceive;</l>
+               <l>As he his brother had guld, and <hi>Cromwell Fairfax</hi> bul'd.</l>
+               <l>Sing hi ho the Attorney was ſtill at your command,</l>
+               <l>In flames together burn ye, ſtill dancing hand in hand.</l>
+            </lg>
+            <lg>
+               <l>Who's that that would hide his face, and his neck from the coller pull?</l>
+               <l>He muſt appear in this place, if his cap be made of Wool.</l>
+               <l>Who is it with a vengeance? it is the good Lord <hi>Saint Johns!</hi>
+               </l>
+               <l>Who made Gods houſe to fall, to build his own withall.</l>
+               <l>
+                  <hi>Sing hi ho who comes there? who tis I muſt not ſay;</hi>
+               </l>
+               <l>
+                  <hi>But by his dark-lanthorn I ſware he's as good in the night as day.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Edge brethren, room for one, that looks as big as the beſt;</l>
+               <l>Tis pitty to leave him alone, for he is as good as the reſt.</l>
+               <l>No picklock of the laws, he builds amongſt the Daws.</l>
+               <l>If you ha'any more Kings to murder for a Preſident look no further.</l>
+               <l>
+                  <hi>Sing hi ho</hi> J. Bradſhaw, <hi>in blood none further engages;</hi>
+               </l>
+               <l>
+                  <hi>The Divel from whom he had's law will ſhortly pay him his wages.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next Peagooſe <hi>Wild</hi> come in, to ſhew your weeſle face.</l>
+               <l>And tell us <hi>Burleys</hi> ſin, whoſe blood bought you your place.</l>
+               <l>When loyalty was a crime, he lived in a dangerous time.</l>
+               <l>Was forc'd to pay his neck, to make you Baron of the Cheque.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Jack Straw <hi>we'l put it in the margent,</hi>
+               </l>
+               <l>
+                  <hi>Twas not for juſtice or law that you were made a Sergeant.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Noll</hi> ſervd not Satan faſter, nor with him did better accord;</l>
+               <l>For he was my good maſter, and the divel was his good Lord.</l>
+               <l>Both <hi>Slingsby, Gerrard,</hi> and <hi>Hewit,</hi> were ſure enough to go to it,</l>
+               <l>According to his intent, that choſe me Preſident.</l>
+               <l>
+                  <hi>Sing hi ho</hi> L. Liſle, <hi>ſure law had got a wrench,</hi>
+               </l>
+               <l>
+                  <hi>And where was juſtice the while, when you ſate on the bench?</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next comes the good Lord <hi>Keble,</hi> of the triumvirate,</l>
+               <l>Of the ſeal, in law but feeble, though on the bench he ſate.</l>
+               <l>For when one puts him acaſe, I wiſh him out of the place,</l>
+               <l>And if it were not a ſin, an abler lawyer in.</l>
+               <l>
+                  <hi>Sing give the ſeal about, Ide have it ſo the rather,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe we might get out, the Knave, my Lord my Father.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Pull out the other there, it is <hi>Nathaniel Fines.</hi>
+               </l>
+               <l>(Who <hi>Briſtol</hi> loſt for fear) we'l not leave him behind's;</l>
+               <l>Tis a chip of that good old block, who to loyalty gave the firſt knock.</l>
+               <l>Then ſtole away to <hi>Lundey,</hi> whence the foul fiend fetches him one day.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Canting Fines, <hi>you and the reſt to mend'um,</hi>
+               </l>
+               <l>
+                  <hi>Would ye were ſervd in your kinds, with an</hi> enſe reſcidendum.</l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He that comes now down ſtaires, is Lord chief juſtice <hi>Glin.</hi>
+               </l>
+               <l>If no man for him cares, he cares as little again.</l>
+               <l>The reaſon too I know't, he helpt cut <hi>Straffords</hi> throat,</l>
+               <l>And take away his life, though with a cleaner kniſe.</l>
+               <l>
+                  <hi>Sing hi ho Britain bold, ſtraight to the bar you get,</hi>
+               </l>
+               <l>
+                  <hi>Where it is not ſo cold as where your juſtice ſet.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He that ſhall next come in, was long of the Council of State;</l>
+               <l>Though hardly a hair on his chin, when firſt in the Council he ſate:</l>
+               <l>He was ſometime in <hi>Italy,</hi> and learned their faſhions prettily.</l>
+               <l>Then came back to's own Nation to help up Reformation.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Harry Nevil, I <hi>prethee be not too raſh,</hi>
+               </l>
+               <l>
+                  <hi>With Atheiſm to Court the Divel, you'r too bold to be his Bardaſh.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He there with ingratitude blackt is one <hi>Cornelius Holland:</hi>
+               </l>
+               <l>Who but for the Kings houſe lackt, wherewith to appeaſe his colon.</l>
+               <l>The caſe is wel amended, ſince that time, as I think,</l>
+               <l>When at Court gate he tended, with a little ſtick and a ſhort link.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Cornelius, <hi>your zeal cannot delude us,</hi>
+               </l>
+               <l>
+                  <hi>The reaſon pray now tell us, why thus you playd the</hi> Judas?</l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At firſt he was a Grocer, who now we Major call:</l>
+               <l>Although you would think no Sir, if you ſaw him in <hi>White-hall.</hi>
+               </l>
+               <l>Where he has great Command, and looks for cap in hand,</l>
+               <l>And if our eggs be not adle, ſhall be of the next new Moddle.</l>
+               <l>
+                  <hi>Sing hi ho Mr.</hi> Salloway <hi>the Lord in Heaven doth know</hi>
+               </l>
+               <l>
+                  <hi>When that from hence you ſhall away where to the Divel you'l go:</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Little <hi>Hill</hi> ſince ſet in the Houſe, is to a Mountain grown:</l>
+               <l>Not that which brought forth the Mouſe, but thouſands the year of his own.</l>
+               <l>The purchaſe that I mean, where elſe but at <hi>Taunton Dean?</hi>
+               </l>
+               <l>Five thouſand pounds <hi>per annum,</hi> a ſum not known to his Granam.</l>
+               <l>
+                  <hi>Sing hi the</hi> Good old Cauſe <hi>tis old although not true</hi>
+               </l>
+               <l>
+                  <hi>You got more by that then the laws, ſo a</hi> Good old Cauſe <hi>to you.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Maſter <hi>Cecil</hi> pray come behind, becauſe on your own accord,</l>
+               <l>The other Houſe you declin'd, you ſhall be no longer a lord.</l>
+               <l>The reaſon as I gueſs, you ſilently did confeſs,</l>
+               <l>Such lords deſerved ill, the other Houſe to fill.</l>
+               <l>
+                  <hi>Sing hi ho Mr.</hi> Cecil, <hi>your honour now is gone,</hi>
+               </l>
+               <l>
+                  <hi>Such lords are not worth a whiſtle, we have made better lords of our own.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Luke Robinſon</hi> ſhall go before ye, that ſnarling Northern tike,</l>
+               <l>Be ſure hee'l not a dore ye, for honour he doth not like.</l>
+               <l>He cannot honour inherit, and he knows he can never merit:</l>
+               <l>And therefore he cannot bear it that any one elſe ſhould wear it.</l>
+               <l>
+                  <hi>Sing hi ho envious lown, you'r of the Beagles kind,</hi>
+               </l>
+               <l>
+                  <hi>Who always barked at the Moon, becauſe in the Dark it ſhin'd.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis this that vengeance rowſes that while you make long prayers,</l>
+               <l>You eat up widows houſes and drank the Orphans tears.</l>
+               <l>Long time you kept a great noiſe, of God and the <hi>Good old Cauſe;</hi>
+               </l>
+               <l>But if God to you be ſo kind, then I'me of the Indians mind.</l>
+               <l>
+                  <hi>Sing hi ho Sir</hi> Harry, <hi>we ſee by your demeanor,</hi>
+               </l>
+               <l>
+                  <hi>If longer here you tarry, you'l be Sir</hi> Harry Vane Senior.</l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now, if your zeal do warm ye, pray lowd for fuirer weather,</l>
+               <l>Swear to live and die with the Army, for theſe Birds are flown together.</l>
+               <l>The Houſe is turnd out a door, (and I think it was no ſin too)</l>
+               <l>If we take them there any more, wee'l throw the Houſe out of the window.</l>
+               <l>
+                  <hi>Sing hi ho</hi> Tom Scot, <hi>you lint the Divel your hand:</hi>
+               </l>
+               <l>
+                  <hi>I wonder he helpt you not, but ſuffred you t'be trapand.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They'r once again conduced, and we freed from the evil</l>
+               <l>To which we long were uſed, God bleſſe us next from the Divel!</l>
+               <l>If they had not been outed, the Army had been routed,</l>
+               <l>And then this Rotten <hi>Rump,</hi> had ſat until the laſt trump.</l>
+               <l>
+                  <hi>But hi ho</hi> Lambort<hi>'s here, the Protectors Inſtrument bore:</hi>
+               </l>
+               <l>
+                  <hi>And many there be that ſwear, his Lady had done it before.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come here then honeſt <hi>Peters,</hi> ſay Grace for the ſecond courſe:</l>
+               <l>So long as theſe your betters, muſt patience have upon force.</l>
+               <l>Long time ye kept a great noiſe, with God and the <hi>Good old Cauſe,</hi>
+               </l>
+               <l>But if God own ſuch as theſe, then where's the Divels Fees. <note place="margin">His rumps and his kidneys.</note>
+               </l>
+               <l>
+                  <hi>Sing hi ho</hi> Hugo, <hi>I hear thou art not dead,</hi>
+               </l>
+               <l>
+                  <hi>Where now to the Divel will you go your Patrons being fled.</hi>
+               </l>
+               <l>
+                  <hi>Sing hi ho my hony, my heart ſhall never rue:</hi>
+               </l>
+               <l>
+                  <hi>Four and twenty now for a penny, and into the bargain</hi> HUGH.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
